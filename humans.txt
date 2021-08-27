@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Himalaya Jha    himalaya@git.training  @awesomejt
 
 # THANKS
 
